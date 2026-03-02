@@ -11,3 +11,5 @@ def divide(x, y):
     return x//y
 
 print(multiply(23, 4))
+print(multiply(34,45))
+print(divide(23, 4))
