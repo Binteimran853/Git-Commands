@@ -13,6 +13,6 @@ def divide(x, y):
 print(multiply(23, 4))
 print(multiply(34,45))
 print(divide(23, 4))
-print('typo errors')
+print('perform squash')
 print('multiply', multiply(3, 34))
-print('dide', divide(24, 5))
+print('divide', divide(24, 5))
