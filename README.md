@@ -21,7 +21,7 @@ Forced Push
 Remote
 Repository
 Tag and Tagging Types
-Upstream and Downsteam
+Upstream and Downstream
 Git Revert
 Git Reset (Soft, Mixed, Hard)
 Git Ignore
